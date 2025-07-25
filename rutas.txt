@@ -1,0 +1,27 @@
+http://localhost:3000/
+
+http://localhost:3000/api/auth/register 
+http://localhost:3000/api/auth/login 
+http://localhost:3000/api/auth/refresh
+
+http://localhost:3000/api/movies/all             getMovies 🆗
+http://localhost:3000/api/movies/:id             getMovieById 🆗
+http://localhost:3000/api/movies/                createMovie 🆗
+http://localhost:3000/api/movies/:id             updateMovie 🆗
+http://localhost:3000/api/movies/:id             updateMovie 🆗
+http://localhost:3000/api/movies/:id             deleteMovie 🆗
+http://localhost:3000/api/movies/:id/actors      getMovieActors 🆗
+http://localhost:3000/api/movies/:id/actors      addMovieActor 🆗
+
+http://localhost:3000/api/genres/                getGenres 🆗
+http://localhost:3000/api/genres/:id             getGenreById 🆗
+http://localhost:3000/api/genres/                createGenre 🆗
+http://localhost:3000/api/genres/:id             updateGenre 🆗
+http://localhost:3000/api/genres/:id             deleteGenre 🆗
+
+http://localhost:3000/api/actors/                getActors 🆗
+http://localhost:3000/api/actors/:id             getActorById 🆗
+http://localhost:3000/api/actors/                createActor 🆗
+http://localhost:3000/api/actors/:id             updateActor 🆗
+http://localhost:3000/api/actors/:id             deleteActor 🆗
+
